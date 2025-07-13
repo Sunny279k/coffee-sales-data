@@ -64,5 +64,6 @@ This project presents a complete Excel dashboard that analyzes sales data from a
 3. Add visuals or slicers to the **Dashboard** sheet (optional).
 4. Extend the analysis using Python, Tableau, or Power BI if needed.
 
-
+## Screenshoot
+https://github.com/Sunny279k/coffee-sales-data/blob/main/Screenshot%202025-07-13%20211214.png
 
